@@ -16,6 +16,8 @@
 ### 🙋‍♂️ About Me
 <hr/>
 
+- 🧑🏻‍💻 Currently, working as a Frontend-Developer at TodayPay.
+
 - 🌱 I’m currently learning DSA along with Full stack, React and Next Js.
 
 - 🔭 I’m currently working on Ed-Tech Platform Project.
