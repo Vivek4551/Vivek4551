@@ -16,25 +16,22 @@
 ### 🙋‍♂️ About Me
 <hr/>
 
-- 🧑🏻‍💻 Currently, working as a Frontend-Developer at TodayPay.
+💻 Full Stack Developer | 🌊 Beach Lover | 🇮🇳 Based in India
+✨ Passionate about tech, coding, and building awesome projects.
+📖 Preparing for UPSC because, well... Bihar + parents' expectations! 🚀
+🌟 Balancing bytes and books, one line of code (or paragraph of history) at a time.
 
-- 🌱 I’m currently learning DSA along with Full stack, React and Next Js.
-
-- 🔭 I’m currently working on Ed-Tech Platform Project.
-  
-- 👯 I’m looking to collaborate on Full Stack Web Development Projects.
+- 🧑🏻‍💻 Currently, working as a Software Engineer at TodayPay.
   
 - 📫 How to reach me:- Mail me at workwithvivek70@gmail.com.
   
-- ⚡ Fun fact:- I love to learn new technologies.
-  
-- 👉 My Leetcode Profile:- https://tinyurl.com/LeetcodeVivek 
+<!-- - 👉 My Leetcode Profile:- https://tinyurl.com/LeetcodeVivek -->
 
-- 🙌🏽My Resume:- https://tinyurl.com/Resume287
+<!-- - 🙌🏽My Resume:- https://tinyurl.com/Resume287 -->
 
-- 🕺🏼 My Hobbies:- Singing, Acting, Travelling, Playing Cricket.
+<!-- - 🕺🏼 My Hobbies:- Singing, Acting, Travelling, Playing Cricket. -->
 
-- 🥅 2024 Goals:- To get Placed :)
+<!-- - 🥅 2024 Goals:- To get Placed :) -->
   
 <br>
 🕵 Take a look at my repositories and let's get in touch!<br>
