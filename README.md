@@ -18,11 +18,12 @@
 
 💻 **Full Stack Developer** || 🇮🇳 Based in India  
 
-✨ Passionate about tech, coding, and building awesome projects.  
-📖 Preparing for UPSC because, well... Bihar + parents' expectations! 🚀  
-🌟 Balancing bytes and books, one line of code (or paragraph of history) at a time.
-
-
+- ✨ Passionate about tech, coding, and building awesome projects.
+  
+- 📖 Preparing for UPSC because, well... Bihar + parents' expectations! 🚀
+  
+- 🌟 Balancing bytes and books, one line of code (or paragraph of history) at a time.
+  
 - 🧑🏻‍💻 Currently, working as a Software Engineer at TodayPay.
   
 - 📫 How to reach me:- Mail me at workwithvivek70@gmail.com.
